@@ -1,9 +1,9 @@
 venv/
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+*.cpython-*.pyc
 
-data/processed/
+data/raw/*
 models/
 
 .vscode/
