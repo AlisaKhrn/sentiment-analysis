@@ -9,7 +9,7 @@
 2. **[rureviews](https://github.com/sismetanin/rureviews)** - датасет из репозитория на GitHub - sismetanin/rureviews
 - `review` - текст отзыва.
 - `sentiment` - метка тональности (positive, neautral, negative).
-В дальнейшем по этому набору тестируется модель для сравнения с существующими решениями из работы на [GitHub - sismetanin
+В дальнейшем по этому набору тестируется модель для сравнения с существующими решениями из работы на GitHub - [sismetanin
 sentiment-analysis-in-russian](https://github.com/sismetanin/sentiment-analysis-in-russian)
 
 #### Формирование выборок
