@@ -1,9 +1,8 @@
 venv/
 __pycache__/
-*.py[cod]
-*.cpython-*.pyc
 
-data/raw/*
+data/raw/
+data/processed/RuReviews_cleaned.csv
+data/processed/WB_cleaned.csv
+
 models/
-
-.vscode/
